@@ -1,0 +1,112 @@
+[
+    {
+        "no_kk": "3578060201081387",
+        "nik": "3578064507130001",
+        "nama": "SITI LAILATUL QODRIA",
+        "alamat": "GIRILAYA 3/21",
+        "status_keluarga": "ADA",
+        "status_ekonomi": "MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201081795",
+        "nik": "3203160101130005",
+        "nama": "MUHAMMAD",
+        "alamat": "SIMO GUNUNG KRAMAT TIMUR 1/6-A",
+        "status_keluarga": "ADA",
+        "status_ekonomi": "MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201081790",
+        "nik": "3203165506840009",
+        "nama": "IHAT",
+        "alamat": "SIMO GUNUNG KRAMAT TIMUR 1/6-A",
+        "status_keluarga": "LENGKAP",
+        "status_ekonomi": "MAMPU",
+        "catatan": "IHAT (TNI)",
+        "status_survey": "TIDAK"
+    },
+    {
+        "no_kk": "3578060201080826",
+        "nik": "3317074107800071",
+        "nama": "SRI FATIMAH",
+        "alamat": "KUPANG GUNUNG 1/38",
+        "status_keluarga": "TIDAK LENGKAP",
+        "status_ekonomi": "SANGAT MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201080826",
+        "nik": "3578060508710003",
+        "nama": "SUCAHYANTO",
+        "alamat": "KUPANG GUNUNG 1/38",
+        "status_keluarga": "TIDAK LENGKAP",
+        "status_ekonomi": "SANGAT MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201080826",
+        "nik": "3317076907130001",
+        "nama": "RISKI RAMANDHANI JULIANTO",
+        "alamat": "KUPANG GUNUNG 1/38",
+        "status_keluarga": "TIDAK LENGKAP",
+        "status_ekonomi": "SANGAT MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201080826",
+        "nik": "3578063105010004",
+        "nama": "RENALDI PUTRA DWI CAHYO",
+        "alamat": "KUPANG GUNUNG 1/38",
+        "status_keluarga": "TIDAK LENGKAP",
+        "status_ekonomi": "SANGAT MISKIN",
+        "catatan": "",
+        "status_survey": "SURVEI"
+    },
+    {
+        "no_kk": "3578060201081387",
+        "nik": "3578065612070006",
+        "nama": "SITI ROHMA",
+        "alamat": "GIRILAYA 3/21",
+        "status_keluarga": "BELOM VALIDASI",
+        "status_ekonomi": "BELOM VALIDASI",
+        "catatan": "BELOM VALIDASI",
+        "status_survey": "BELOM VALIDASI"
+    },
+    {
+        "no_kk": "3578060201081387",
+        "nik": "3578065804030006",
+        "nama": "SOFIA TUL HABIBA",
+        "alamat": "GIRILAYA 3/21",
+        "status_keluarga": "BELOM VALIDASI",
+        "status_ekonomi": "BELOM VALIDASI",
+        "catatan": "BELOM VALIDASI",
+        "status_survey": "BELOM VALIDASI"
+    },
+    {
+        "no_kk": "3578060201081387",
+        "nik": "3578065804830008",
+        "nama": "WARSINI SULIHA",
+        "alamat": "GIRILAYA 3/21",
+        "status_keluarga": "BELOM VALIDASI",
+        "status_ekonomi": "BELOM VALIDASI",
+        "catatan": "BELOM VALIDASI",
+        "status_survey": "BELOM VALIDASI"
+    },
+    {
+        "no_kk": "3578066904150003",
+        "nik": "3578060201081387",
+        "nama": "MAK`RIFAH",
+        "alamat": "GIRILAYA 3/21",
+        "status_keluarga": "BELOM VALIDASI",
+        "status_ekonomi": "BELOM VALIDASI",
+        "catatan": "BELOM VALIDASI",
+        "status_survey": "BELOM VALIDASI"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "pertanyaan": "Hubungan dengan kepala rumah tangga"
+    },
+    {
+        "pertanyaan": "Hubungan dengan kepala keluarga"
+    },
+    {
+        "pertanyaan": "Jenis kelamin"
+    },
+    {
+        "pertanyaan": "Status perkawinan"
+    },
+    {
+        "pertanyaan": "Kepemilikan identitas"
+    },
+    {
+        "pertanyaan": "Jenis cacat"
+    },
+    {
+        "pertanyaan": "Jenis penyakit yang diderita"
+    },
+    {
+        "pertanyaan": "Partisipasi sekolah"
+    },
+    {
+        "pertanyaan": "Jenjang pendidikan"
+    },
+    {
+        "pertanyaan": "Ijazah tertinggi"
+    },
+    {
+        "pertanyaan": "Pekerjaan utama"
+    },
+    {
+        "pertanyaan": "Posisi pekerjaan"
+    },
+    {
+        "pertanyaan": "Jenis PMKS"
+    },
+    {
+        "pertanyaan": "Status Lahan Tempat Tinggal"
+    }
+]

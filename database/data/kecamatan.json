@@ -1,0 +1,33 @@
+[
+    {"no_kec":2,"nama_kec":"KECAMATAN WONOCOLO","no_kab":78,"no_prop":35}
+    ,{"no_kec":3,"nama_kec":"KECAMATAN RUNGKUT","no_kab":78,"no_prop":35}
+    ,{"no_kec":8,"nama_kec":"KECAMATAN GUBENG","no_kab":78,"no_prop":35}
+    ,{"no_kec":21,"nama_kec":"KECAMATAN DUKUH PAKIS","no_kab":78,"no_prop":35}
+    ,{"no_kec":27,"nama_kec":"KECAMATAN SUKOMANUNGGAL","no_kab":78,"no_prop":35}
+    ,{"no_kec":6,"nama_kec":"KECAMATAN SAWAHAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":10,"nama_kec":"KECAMATAN TAMBAK SARI","no_kab":78,"no_prop":35}
+    ,{"no_kec":29,"nama_kec":"KECAMATAN BULAK","no_kab":78,"no_prop":35}
+    ,{"no_kec":15,"nama_kec":"KECAMATAN KREMBANGAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":30,"nama_kec":"KECAMATAN PAKAL","no_kab":78,"no_prop":35}
+    ,{"no_kec":24,"nama_kec":"KECAMATAN TENGGILIS MEJOYO","no_kab":78,"no_prop":35}
+    ,{"no_kec":7,"nama_kec":"KECAMATAN GENTENG","no_kab":78,"no_prop":35}
+    ,{"no_kec":9,"nama_kec":"KECAMATAN SUKOLILO","no_kab":78,"no_prop":35}
+    ,{"no_kec":31,"nama_kec":"KECAMATAN SAMBI KEREP","no_kab":78,"no_prop":35}
+    ,{"no_kec":23,"nama_kec":"KECAMATAN JAMBANGAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":12,"nama_kec":"KECAMATAN PABEAN CANTIAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":13,"nama_kec":"KECAMATAN BUBUTAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":20,"nama_kec":"KECAMATAN WIYUNG","no_kab":78,"no_prop":35}
+    ,{"no_kec":17,"nama_kec":"KECAMATAN KENJERAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":11,"nama_kec":"KECAMATAN SIMOKERTO","no_kab":78,"no_prop":35}
+    ,{"no_kec":28,"nama_kec":"KECAMATAN ASEMROWO","no_kab":78,"no_prop":35}
+    ,{"no_kec":1,"nama_kec":"KECAMATAN KARANG PILANG","no_kab":78,"no_prop":35}
+    ,{"no_kec":26,"nama_kec":"KECAMATAN MULYOREJO","no_kab":78,"no_prop":35}
+    ,{"no_kec":14,"nama_kec":"KECAMATAN TANDES","no_kab":78,"no_prop":35}
+    ,{"no_kec":16,"nama_kec":"KECAMATAN SEMAMPIR","no_kab":78,"no_prop":35}
+    ,{"no_kec":22,"nama_kec":"KECAMATAN GAYUNGAN","no_kab":78,"no_prop":35}
+    ,{"no_kec":25,"nama_kec":"KECAMATAN GUNUNG ANYAR","no_kab":78,"no_prop":35}
+    ,{"no_kec":4,"nama_kec":"KECAMATAN WONOKROMO","no_kab":78,"no_prop":35}
+    ,{"no_kec":18,"nama_kec":"KECAMATAN LAKAR SANTRI","no_kab":78,"no_prop":35}
+    ,{"no_kec":5,"nama_kec":"KECAMATAN TEGALSARI","no_kab":78,"no_prop":35}
+    ,{"no_kec":19,"nama_kec":"KECAMATAN BENOWO","no_kab":78,"no_prop":35}
+    ]

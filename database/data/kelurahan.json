@@ -1,0 +1,1226 @@
+[
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KANDANGAN",
+        "no_kec": 19,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 1
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN TAMBAK OSOWILANGUN",
+        "no_kec": 19,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 2
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN ROMOKALISARI",
+        "no_kec": 19,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 3
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN BUBUTAN",
+        "no_kec": 13,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 4
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN ALON ALON CONTONG",
+        "no_kec": 13,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 5
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN JEPARA",
+        "no_kec": 13,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 6
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN DUPAK",
+        "no_kec": 15,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 7
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN PAKAL",
+        "no_kec": 30,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 8
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN SUMBER REJO",
+        "no_kec": 30,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 9
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KREMBANGAN UTARA",
+        "no_kec": 12,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 10
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PERAK TIMUR",
+        "no_kec": 12,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 11
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN TEMBOK DUKUH",
+        "no_kec": 13,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 12
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN MOROKREMBANGAN",
+        "no_kec": 15,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 13
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN PERAK BARAT",
+        "no_kec": 15,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 14
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN KEMAYORAN",
+        "no_kec": 15,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 15
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KREMBANGAN SELATAN",
+        "no_kec": 15,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 16
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN ASEMROWO",
+        "no_kec": 28,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 17
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN SEMEMI",
+        "no_kec": 19,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 18
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN BULAK",
+        "no_kec": 29,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 19
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN KAPASAN",
+        "no_kec": 11,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 20
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN TAMBAKREJO",
+        "no_kec": 11,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 21
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN SIMOKERTO",
+        "no_kec": 11,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 22
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN SIMOLAWANG",
+        "no_kec": 11,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 23
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN SIDOTOPO",
+        "no_kec": 16,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 24
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN PEGIRIAN",
+        "no_kec": 16,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 25
+    },
+    {
+        "no_kel": 1008,
+        "nama_kel": "KELURAHAN DUKUH SETRO",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 26
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN SIMOMULYO BARU",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 27
+    },
+    {
+        "no_kel": 1007,
+        "nama_kel": "KELURAHAN KAPASMADYA BARU",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 28
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN RANGKAH",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 29
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN SIDOTOPO WETAN",
+        "no_kec": 17,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 30
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN NGAGEL",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 31
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN DUKUH PAKIS",
+        "no_kec": 21,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 32
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN BALAS KLUMPRIK",
+        "no_kec": 20,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 33
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN JAJARTUNGGAL",
+        "no_kec": 20,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 34
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN LIDAH KULON",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 35
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN MADE",
+        "no_kec": 31,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 36
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN SAMBIKEREP",
+        "no_kec": 31,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 37
+    },
+    {
+        "no_kel": 1009,
+        "nama_kel": "KELURAHAN MANUKAN KULON",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 38
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PUTAT GEDE",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 39
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN SUKO MANUNGGAL",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 40
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN BANYU URIP",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 41
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN SAWAHAN",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 42
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN TEGALSARI",
+        "no_kec": 5,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 43
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KEDUNGDORO",
+        "no_kec": 5,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 44
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN GENTENG",
+        "no_kec": 7,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 45
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN BABAT JERAWAT",
+        "no_kec": 30,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 46
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN BENOWO",
+        "no_kec": 30,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 47
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KEDURUS",
+        "no_kec": 1,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 48
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PAGESANGAN",
+        "no_kec": 23,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 49
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN JAMBANGAN",
+        "no_kec": 23,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 50
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN KARAH",
+        "no_kec": 23,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 51
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN MENANGGAL",
+        "no_kec": 22,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 52
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KETINTANG",
+        "no_kec": 22,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 53
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN GAYUNGAN",
+        "no_kec": 22,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 54
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN JEMUR WONOSARI",
+        "no_kec": 2,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 55
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN MARGOREJO",
+        "no_kec": 2,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 56
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN SIDOSERMO",
+        "no_kec": 2,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 57
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KUTISARI",
+        "no_kec": 24,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 58
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN TENGGILIS MEJOYO",
+        "no_kec": 24,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 59
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN RUNGKUT MENANGGAL",
+        "no_kec": 25,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 60
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN RUNGKUT TENGAH",
+        "no_kec": 25,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 61
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN GUNUNG ANYAR",
+        "no_kec": 25,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 62
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN RUNGKUT KIDUL",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 63
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN MEDOKAN AYU",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 64
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN WONOREJO",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 65
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KEDUNG BARUK",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 66
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KALIRUNGKUT",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 67
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN SEMOLOWARU",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 68
+    },
+    {
+        "no_kel": 1007,
+        "nama_kel": "KELURAHAN MEDOKAN SEMAMPIR",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 69
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KEPUTIH",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 70
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KLAMPIS NGASEM",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 71
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN MENUR PUMPUNGAN",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 72
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN MULYOREJO",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 73
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KEJAWAN PUTIH TAMBAK",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 74
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN KALISARI",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 75
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN KALIJUDAN",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 76
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN BARATAJAYA",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 77
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN PUCANG SEWU",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 78
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN GUBENG",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 79
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN MOJO",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 80
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN SAWUNGGALING",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 81
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN JAGIR",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 82
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN NGAGELREJO",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 83
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN DARMO",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 84
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN GUNUNGSARI",
+        "no_kec": 21,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 85
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN DUKUH KUPANG",
+        "no_kec": 21,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 86
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN BABATAN",
+        "no_kec": 20,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 87
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN WIYUNG",
+        "no_kec": 20,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 88
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN BANGKINGAN",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 89
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN SUMUR WELUT",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 90
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN LIDAH WETAN",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 91
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN JERUK",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 92
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN LAKARSANTRI",
+        "no_kec": 18,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 93
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN BRINGIN",
+        "no_kec": 31,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 94
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN LONTAR",
+        "no_kec": 31,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 95
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN TANDES",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 96
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN KARANGPOH",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 97
+    },
+    {
+        "no_kel": 1007,
+        "nama_kel": "KELURAHAN BALONGSARI",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 98
+    },
+    {
+        "no_kel": 1011,
+        "nama_kel": "KELURAHAN MANUKAN WETAN",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 99
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN SONO KWIJENAN",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 100
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN SIMOMULYO",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 101
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN TANJUNGSARI",
+        "no_kec": 27,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 102
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN PAKIS",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 103
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PUTAT JAYA",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 104
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN KUPANG KRAJAN",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 105
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN PETEMON",
+        "no_kec": 6,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 106
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN KEPUTRAN",
+        "no_kec": 5,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 107
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN DR. SUTOMO",
+        "no_kec": 5,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 108
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN EMBONG KALIASIN",
+        "no_kec": 7,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 110
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN KETABANG",
+        "no_kec": 7,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 111
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN PENELEH",
+        "no_kec": 7,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 112
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KAPASARI",
+        "no_kec": 7,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 113
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN KEBRAON",
+        "no_kec": 1,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 114
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN GADING",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 115
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN TANAH KALI KEDINDING",
+        "no_kec": 17,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 116
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN BULAK BANTENG",
+        "no_kec": 17,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 117
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN TAMBAK WEDI",
+        "no_kec": 17,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 118
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN SUKOLILO BARU",
+        "no_kec": 29,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 119
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN WARUGUNUNG",
+        "no_kec": 1,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 120
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN BONGKARAN",
+        "no_kec": 12,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 121
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN PERAK UTARA",
+        "no_kec": 12,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 122
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN DUKUH MENANGGAL",
+        "no_kec": 22,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 124
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KEBONSARI",
+        "no_kec": 23,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 123
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN KERTAJAYA",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 125
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN AIRLANGGA",
+        "no_kec": 8,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 126
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN GUNUNG ANYAR TAMBAK",
+        "no_kec": 25,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 127
+    },
+    {
+        "no_kel": 1006,
+        "nama_kel": "KELURAHAN PACAR KELING",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 128
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KARANGPILANG",
+        "no_kec": 1,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 129
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN UJUNG",
+        "no_kec": 16,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 130
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN NYAMPLUNGAN",
+        "no_kec": 12,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 131
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN GUNDIH",
+        "no_kec": 13,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 132
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PACAR KEMBANG",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 133
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN PLOSO",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 134
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN KENJERAN",
+        "no_kec": 29,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 135
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN KEDUNG COWEK",
+        "no_kec": 29,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 136
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN SIDODADI",
+        "no_kec": 11,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 137
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN AMPEL",
+        "no_kec": 16,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 138
+    },
+    {
+        "no_kel": 1003,
+        "nama_kel": "KELURAHAN WONOKUSUMO",
+        "no_kec": 16,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 139
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN MANYAR SABRANGAN",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 140
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN KENDANGSARI",
+        "no_kec": 24,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 141
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PANJANG JIWO",
+        "no_kec": 24,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 142
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN TAMBAK SARIOSO",
+        "no_kec": 28,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 144
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN GENTING KALIANAK",
+        "no_kec": 28,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 145
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN DUKUH SUTOREJO",
+        "no_kec": 26,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 146
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PRADAH KALIKENDAL",
+        "no_kec": 21,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 147
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN WONOKROMO",
+        "no_kec": 4,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 148
+    },
+    {
+        "no_kel": 1004,
+        "nama_kel": "KELURAHAN PENJARINGANSARI",
+        "no_kec": 3,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 149
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN GEBANG PUTIH",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 150
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN NGINDEN JANGKUNGAN",
+        "no_kec": 9,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 151
+    },
+    {
+        "no_kel": 1001,
+        "nama_kel": "KELURAHAN TAMBAKSARI",
+        "no_kec": 10,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 152
+    },
+    {
+        "no_kel": 1012,
+        "nama_kel": "KELURAHAN Banjar Sugihan",
+        "no_kec": 14,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 153
+    },
+    {
+        "no_kel": 1005,
+        "nama_kel": "KELURAHAN SIWALANKERTO",
+        "no_kec": 2,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 154
+    },
+    {
+        "no_kel": 1002,
+        "nama_kel": "KELURAHAN BENDUL MERISI",
+        "no_kec": 2,
+        "no_kab": 78,
+        "no_prop": 35,
+        "id_kel": 155
+    }
+]

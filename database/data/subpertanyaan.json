@@ -1,0 +1,890 @@
+[
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Kepala rumah tangga"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Istri / Suami"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Anak"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Menantu"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Cucu"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Orang Tua / Mertua"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Pembantu Rumah Tangga"
+    },
+    {
+        "pertanyaan_id": 1,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Kepala Keluarga"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Istri / Suami"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Anak"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Menantu"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Cucu"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Orang Tua / Mertua"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Pembantu Rumah Tangga"
+    },
+    {
+        "pertanyaan_id": 2,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 3,
+        "sub_pertanyaan": "Pria"
+    },
+    {
+        "pertanyaan_id": 3,
+        "sub_pertanyaan": "Wanita"
+    },
+    {
+        "pertanyaan_id": 4,
+        "sub_pertanyaan": "Belum Kawin"
+    },
+    {
+        "pertanyaan_id": 4,
+        "sub_pertanyaan": "Kawin / Nikah"
+    },
+    {
+        "pertanyaan_id": 4,
+        "sub_pertanyaan": "Cerai hidup"
+    },
+    {
+        "pertanyaan_id": 4,
+        "sub_pertanyaan": "Cerai mati"
+    },
+    {
+        "pertanyaan_id": 5,
+        "sub_pertanyaan": "Tidak Ada"
+    },
+    {
+        "pertanyaan_id": 5,
+        "sub_pertanyaan": "Akta"
+    },
+    {
+        "pertanyaan_id": 5,
+        "sub_pertanyaan": "Kartu pelajar"
+    },
+    {
+        "pertanyaan_id": 5,
+        "sub_pertanyaan": "KTP"
+    },
+    {
+        "pertanyaan_id": 5,
+        "sub_pertanyaan": "SIM"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tidak cacat"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna daksa / cacat tubuh"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna netra / buta"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna Rungu"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna wicara"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna rungu & wicara"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna netra & cacat tubuh"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna netra, rungu & wicara"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna rungu, wicara & cacat tubuh"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Tuna rungu, wicara, netra & cacat tubuh"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Cacat Mental retardasi"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Mantan penderita gangguan jiwa"
+    },
+    {
+        "pertanyaan_id": 6,
+        "sub_pertanyaan": "Cacat fisik & mental"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Tidak ada"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Hipertensi"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Rematik"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Asma"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Masalah Jantung"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Diabetes"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Tuberculosis"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Stroke"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Kangker/tumor"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "Lainnya(gagal ginjal, paru - paru, flek dan sejenisnya)"
+    },
+    {
+        "pertanyaan_id": 7,
+        "sub_pertanyaan": "HIV/AIDS Individu"
+    },
+    {
+        "pertanyaan_id": 8,
+        "sub_pertanyaan": "Tidak/belum pernah sekolah"
+    },
+    {
+        "pertanyaan_id": 8,
+        "sub_pertanyaan": "Masih sekolah"
+    },
+    {
+        "pertanyaan_id": 8,
+        "sub_pertanyaan": "Tidak bersekolah lagi"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "SD/SDLB"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "Paket A"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "M ibtidaiyah"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "SMP/SMPLB"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "Paket B"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "M Tsanawiyah"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "SMA/SML/SMKLB"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "Paket C"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "M Aliyah"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "Perguruan Tinggi D1/D2/D3"
+    },
+    {
+        "pertanyaan_id": 9,
+        "sub_pertanyaan": "Perguruan Tinggi S1/S2/S3"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "Tidak punya ijazah"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "SD/Sederajat"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "SMP/Sederajat"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "SMA/Sederajat"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "D1/D2/D3"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "D4/S1"
+    },
+    {
+        "pertanyaan_id": 10,
+        "sub_pertanyaan": "S2/S3"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Pertanian (padi & palawija)"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Hortikultura"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Perkebunan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Perikanan tangkap"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Perikanan budidaya"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Peternakan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Kehutanan & pertanian lain"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Pertambangan / panggilan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Industri pengolahan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Listrik & gas"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Bangunan/konstruksi"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Perdagangan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Hotel & rumah tangga"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Transportasi & pergudangan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Informasi & komunikasi"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Keuangan & asuransi"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Jasa pendidikan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Jasa kesehatan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Jasa kemasyarakatan, pemerintah & perorangan"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Pemulung"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Tuna Susila"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Pengemis Individu"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Pekerja Imigran Individu"
+    },
+    {
+        "pertanyaan_id": 11,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Berusaha sendiri"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Berusaha dibantu buruh tidak tetap/tidak dibayar"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Berusaha dibantu buruh tetap/dibayar"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Buruh/karyawan/pegawai swasta"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "PNS/TNI/Polri/BUMN/BUMD/Anggota legislatif"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Pekerja bebas pertanian"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Pekerja bebas Non-pertanian"
+    },
+    {
+        "pertanyaan_id": 12,
+        "sub_pertanyaan": "Pekerja keluarga/tidak dibayar"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak Balita Terlantar"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak Berhadapan dengan Hukum"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak dengan Kedisabilitasan"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak Jalanan"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak Korban Tindak Kekerasan"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak Terlantar"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Anak yang Memerlukan Perlindungan Khusus"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Bekas Warga Binaan Lembaga Pemasyarakatan (BWLP)"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Gelandangan"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Keluarga Bermasalah Sosial Psikologis"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Fakir Miskin"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Korban Bencana Alam"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Korban Bencana Sosial"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Korban Penyalahgunaan NAPZA"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Korban Tindak Kekerasan"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Korban Trafficking"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Lanjut Usia Terlantar"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Orang Dengan HIV/AIDS (ODHA)"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Pekerja Migran Bermasalah Sosial (PMBS)"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Pemulung"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Pengemis"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "penyandang Disabilitas"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Perempuan Rawan Sosial Ekonomi"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Tuna Susila"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Kelompok Minoritas"
+    },
+    {
+        "pertanyaan_id": 13,
+        "sub_pertanyaan": "Keluarga Berumah Tak Layak Huni"
+    },
+    {
+        "pertanyaan_id": 14,
+        "sub_pertanyaan": "Milik Sendiri"
+    },
+    {
+        "pertanyaan_id": 14,
+        "sub_pertanyaan": "Kontrak / Sewa"
+    },
+    {
+        "pertanyaan_id": 14,
+        "sub_pertanyaan": "Bebas Sewa"
+    },
+    {
+        "pertanyaan_id": 14,
+        "sub_pertanyaan": "Dinas"
+    },
+    {
+        "pertanyaan_id": 15,
+        "sub_pertanyaan": "Milik Sendiri"
+    },
+    {
+        "pertanyaan_id": 15,
+        "sub_pertanyaan": "Milik Orang Lain"
+    },
+    {
+        "pertanyaan_id": 15,
+        "sub_pertanyaan": "Tanah Negara"
+    },
+    {
+        "pertanyaan_id": 15,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Marmer / Granit"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Keramik"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Parket / Vinil / Permadani"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Ubin / Tegel / Teraso"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Kayu / Papan Kualitas Tinggi"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Semen / Bata Merah"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Bambu"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Kayu / Papan Kualitas Rendah"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Tanah"
+    },
+    {
+        "pertanyaan_id": 16,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Tembok"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Plesteran anyaman bambu / Kawat"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Kayu"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Anyaman Bambu"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Batang Kayu"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Bambu"
+    },
+    {
+        "pertanyaan_id": 17,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Beton / Genteng Beton"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Genteng Keramik"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Genteng Metal"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Genteng Tanah Liat"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Asbes"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Seng"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Sirap"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Bambu"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Jerami / Ijuk / Daundaunan / Rumbia"
+    },
+    {
+        "pertanyaan_id": 18,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Air Kemasan Bermerk"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Air Isi Ulang"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Leding Meteran"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Leding Eceran"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Sumur Bor / Pompa"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Sumur Terlindung"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Sumur Tak Terlindung"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Mata Air Terlindung"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Mata Air Tak Terlindung"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Air Sungai / Danau / Waduk"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Air Hujan"
+    },
+    {
+        "pertanyaan_id": 19,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 20,
+        "sub_pertanyaan": "Membeli Eceran"
+    },
+    {
+        "pertanyaan_id": 20,
+        "sub_pertanyaan": "Langganan"
+    },
+    {
+        "pertanyaan_id": 20,
+        "sub_pertanyaan": "Tidak Membeli"
+    },
+    {
+        "pertanyaan_id": 21,
+        "sub_pertanyaan": "Listrik PLN"
+    },
+    {
+        "pertanyaan_id": 21,
+        "sub_pertanyaan": "Listrik non PLN"
+    },
+    {
+        "pertanyaan_id": 21,
+        "sub_pertanyaan": "Bukan Listrik"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "450 Watt"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "900 Watt"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "1300 Watt"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "2200 Watt"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "> 2200 Watt"
+    },
+    {
+        "pertanyaan_id": 22,
+        "sub_pertanyaan": "Tanpa Meteran"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Listrik"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Gas > 3 Kg"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Gas 3 kg"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Gas Kota / Bio Gas"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Minyak Tanah"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Brikel"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Arang"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Kayu Bakar"
+    },
+    {
+        "pertanyaan_id": 23,
+        "sub_pertanyaan": "Tidak Memasak Di Rumah"
+    },
+    {
+        "pertanyaan_id": 24,
+        "sub_pertanyaan": "Sendiri"
+    },
+    {
+        "pertanyaan_id": 24,
+        "sub_pertanyaan": "Bersama"
+    },
+    {
+        "pertanyaan_id": 24,
+        "sub_pertanyaan": "Umum"
+    },
+    {
+        "pertanyaan_id": 24,
+        "sub_pertanyaan": "Tidak Ada"
+    },
+    {
+        "pertanyaan_id": 25,
+        "sub_pertanyaan": "Leher Angsa"
+    },
+    {
+        "pertanyaan_id": 25,
+        "sub_pertanyaan": "Plengsengan"
+    },
+    {
+        "pertanyaan_id": 25,
+        "sub_pertanyaan": "Cemplung / Cubluk"
+    },
+    {
+        "pertanyaan_id": 25,
+        "sub_pertanyaan": "Tidak Pakai"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "Tangki"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "SPAL"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "Lubang Tanah"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "Kolam / Sawah / Sungai / Danau / Laut"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "Pantai / Tanah Lapang / Kebun"
+    },
+    {
+        "pertanyaan_id": 26,
+        "sub_pertanyaan": "Lainnya"
+    },
+    {
+        "pertanyaan_id": 27,
+        "sub_pertanyaan": "< 1 juta"
+    },
+    {
+        "pertanyaan_id": 27,
+        "sub_pertanyaan": "1 - < 5 juta"
+    },
+    {
+        "pertanyaan_id": 27,
+        "sub_pertanyaan": "5 - < 10 juta"
+    },
+    {
+        "pertanyaan_id": 27,
+        "sub_pertanyaan": "≥ 10 juta"
+    },
+    {
+        "pertanyaan_id": 28,
+        "sub_pertanyaan": "Bagus / Kualitas Tinggi"
+    },
+    {
+        "pertanyaan_id": 28,
+        "sub_pertanyaan": "Jelek / Kualitas Rendah"
+    },
+    {
+        "pertanyaan_id": 29,
+        "sub_pertanyaan": "Selesai Dicacah"
+    },
+    {
+        "pertanyaan_id": 29,
+        "sub_pertanyaan": "Rumah Tangga Tidak Ditemukan"
+    },
+    {
+        "pertanyaan_id": 29,
+        "sub_pertanyaan": "Rumah Tangga Pindah / Bangunan Sensus Sudah Tidak Ada"
+    },
+    {
+        "pertanyaan_id": 29,
+        "sub_pertanyaan": "Bagian Dari Rumah Tangga Lain"
+    }
+]
