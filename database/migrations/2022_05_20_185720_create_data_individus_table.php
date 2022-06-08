@@ -18,8 +18,8 @@ class CreateDataIndividusTable extends Migration
             $table->id();
             // $table->foreignIdFor(Rumahtangga::class);
             // $table->string('no_data_individu');
-            // $table->string('no_kk');
-            $table->string('no_kk');
+            $table->string('no_prelist');
+            $table->string('no_kk')->unique();
             $table->string('nik')->unique();
             $table->string('namaAnggotaKeluarga');
             $table->string('hubungankplkeluarga');

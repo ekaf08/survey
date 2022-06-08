@@ -38,51 +38,155 @@
         <section class="section">
             <div class="card">
                 <div class="card-header">
-                    <h2 class="card-title">Form Prelist Validasi</h2>
+                    <h2 class="card-title text-center">Tambah Data Warga - Form Prelist Validasi</h2>
                 </div>
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-5">
                             <div class="form-group">
                                 <label for="noKK">Nomor Kartu Keluarga</label>
-                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="noKK" name="noKK"
+                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="noKK" name="no_kk"
                                     value="{{ old('noKK') }}"  required>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-5">
+                        {{-- <div class="col-md-5">
                             <div class="form-group">
-                                <label for="nik">NIK Anggota Keluarga<span class="required">*</span> </label>
+                                <label for="noKK">Nomor Kartu Keluarga</label>
+                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="noKK" name="noKK"
+                                    value="{{ old('noKK') }}"  required>
+                            </div>
+                        </div> --}}
+                    </div>
+         </section>
+        <section>
+                <div class="card">
+                    <div class="card-header">
+                        <h2>
+                            <div class="card-title text-center">Anggota Keluarga</div>
+                        </h2>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                        {{-- rencana mau di buat menu dinamis --}}
+                    
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="nik">NIK <span class="required">*</span> </label>
                                 <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control"  id="nik" name="nik"
                                     value="{{ old('nik') }}"   required>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-md-4">
                             <div class="form-group">
-                                <label for="namaAnggotaKeluarga">Nama Anggota Keluarga<span class="required">*</span> </label>
-                                <input type="text" class="form-control" id="upper" onkeyup="myFunction()" name="upper"
-                                    value="{{ old('namaAnggotaKeluarga')}}"  required>
+                                <label for="nama">Nama<span class="required">*</span> </label>
+                                <input type="text" class="form-control" id="upper" onkeyup="myFunction()" name="nama"
+                                    value="{{ old('nama')}}"  required>
                             </div>
                         </div>
-                    </div>
 
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="hub_keluarga">Hubungan Keluarga<span class="required">*</span> </label>
+                                <select class="form-select" id="hub_keluarga" name="hub_keluarga" required>
+                                    <option value="" selected disabled hidden>Pilih Data</option>
+                                    <option value="KEPALA KELUARGA">KEPALA KELUARGA</option>
+                                    <option value="SUAMI/ISTRI">SUAMI/ISTRI</option>
+                                    <option value="ANAK">ANAK</option>
+                                    <option value="ORANG TUA/MERTUA">ORANG TUA/MERTUA</option>
+                                </select>
+                                </div>
+                        </div>
+                    
+{{-- rencana mau di buat menu dinamis --}}
+                        </div>
+                    </div>
+                </div>
+        </section>       
+
+<section>
+    <div class="card">
+        <div class="card-header">
+            <h2>
+                <div class="card-title text-center">Alamat </div>
+            </h2>
+        </div>
+        <div class="card-body">
                     <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-md-4">
                             <div class="form-group">
                                 <label for="alamat">Alamat<span class="required">*</span> </label>
-                                <input type="text" class="form-control" onkeyup="myFunction()" id="upper2" name="alamat"
-                                    value="{{ old('alamat') }}"  required>
+                                <textarea class="form-control" onkeyup="myFunction()" id="upper2" name="alamat"
+                                    value="{{ old('alamat') }}"  required></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="no_rw">No RW<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="3" id="upper" onkeyup="myFunction()" name="no_rw"
+                                    value="{{ old('no_rw')}}"  required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label for="no_rt">No RT<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="3" id="upper" onkeyup="myFunction()" name="no_rt"
+                                    value="{{ old('no_rt')}}"  required>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="kelurahan">Kelurahan<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeyup="myFunction()" id="upperkel" name="kelurahan"
+                                    value="{{ old('kelurahan') }}"  required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="kecamatan">Kecamatan<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeyup="myFunction()" id="upperkec" name="kecamatan"
+                                    value="{{ old('kecamatan') }}"  required>
                             </div>
                         </div>
                     </div>
 
 
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="periode">Periode<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeyup="myFunction()" id="upperbul" name="periode"
+                                    value="{{ old('periode') }}"  required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="tahun">Tahun<span class="required">*</span> </label>
+                                <input type="text" class="form-control" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="4" id="tahun" name="tahun"
+                                    value="{{ old('tahun') }}"  required>
+                            </div>
+                        </div>
+                    </div>
+
 {{-- Radio Button --}}
+                    <div class="row">
                         <div class="col-md-10">
                             <fieldset class="form-group">
                                 <label for="status_keluarga">Status Keluarga : <span class="required">*</span> </label>
@@ -112,8 +216,10 @@
                                 </div>  
                             </fieldset>
                         </div>
+                    </div>
 
-                        <div class="col-md-10">
+                    <div class="row" id="div_status" style="display:none">
+                        <div class="col-md-10 ">
                             <fieldset class="form-group">
                                 <label for="status_ekonomi">Status Ekonomi <span class="required">*</span> </label>
                                 <div class="form-check">
@@ -136,7 +242,8 @@
                                 </div>
 
                             </fieldset>
-                        </div>                 
+                        </div>               
+                    </div>  
 
 {{--  END RADIO BUTTON--}}
 
@@ -149,6 +256,14 @@
                                 </div>
                             </div>
                         </div>
+
+                        {{-- <div class="col-md-4">
+                            <div class="form-group">
+                                <label for="waktupengajuan">Waktu Pengajuan</label>
+                                <input type="text" class="form-control" id="waktuPengajuan" disabled
+                                    value="{{ $time }}" name="waktuPengajuan">
+                            </div>
+                        </div> --}}
 
             {{-- </div>  --}}
         </div>
@@ -190,6 +305,12 @@ dselect(document.querySelector('#channel'), {});
       y.value = y.value.toUpperCase();
       var k = document.getElementById("upper2");
       k.value = k.value.toUpperCase();
+      var kelurahan = document.getElementById("upperkel");
+      kelurahan.value = kelurahan.value.toUpperCase();
+      var kecamatan = document.getElementById("upperkec");
+      kecamatan.value = kecamatan.value.toUpperCase();
+      var periode = document.getElementById("upperbul");
+      periode.value = periode.value.toUpperCase();
     }
     
             handlestatus2

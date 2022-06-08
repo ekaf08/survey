@@ -2,6 +2,7 @@
 @section('custom-stylesheet')
     <link href="https://unpkg.com/filepond/dist/filepond.css" rel="stylesheet">
     <link href="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css" rel="stylesheet">
+    
     <link rel="stylesheet" href="/assets/css/dselect.css">
 @endsection
 @section('main-content')
@@ -1697,9 +1698,11 @@
                         </div>
 {{-- Radio Button Penderita Gangguan Jiwa Mendapat Pengobatan Dan Tidak Di Terlantarkan--}}
 
+{{-- <input type="file" class="filepond" placeholder="insert image here"> --}}
+
 
                         <div class="row">
-                            <div class="col-md-10">
+                            <div class="col-md-5">
                                 <div class="form-group">
                                     <label for="catatan">Catatan </label>
                                     <textarea class="form-control" name="catatan" id="catatan" value="{{ old('catatan') }}" ></textarea>
@@ -1707,13 +1710,19 @@
                             </div>
                         </div>
 
+
+                        
+
+
                         <div class="col-lg-8">
                             <div class="form-group">
-                                <label for="gambar" class="form-label">File Pendukung</label>
-                                <input type="file" id="gambar" name="gambar"
-                                    class="image-preview-filepond" {{--multiple data-max-files="3"--}} data-max-file-size="3MB">
+                                <label for="imageAttachment" class="form-label">File Pendukung</label>
+                                <input type="file" id="imageAttachment" name="imageAttachment"
+                                    class="image-preview-filepond" {{--multiple data-max-files="3"--}} data-max-file-size="1MB">
                             </div>
                         </div>
+
+                        
 
 
 
@@ -1740,14 +1749,47 @@
     <script src="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js"></script>
     <script src="https://unpkg.com/filepond/dist/filepond.js"></script>
 
+
     <script src="/assets/js/dselect.js"></script>
 
     <script>
+        FilePond.registerPlugin(
+            FilePondPluginFileValidateSize,
+            FilePondPluginFileValidateType,
+            FilePondPluginImagePreview,
+        );
+        FilePond.create(document.querySelector('.image-preview-filepond'), {
+            allowImagePreview: true,
+            allowImageFilter: false,
+            allowImageExifOrientation: false,
+            allowImageCrop: false,
+            acceptedFileTypes: ['image/png', 'image/jpg', 'image/jpeg'],
+            fileValidateTypeDetectType: (source, type) => new Promise((resolve, reject) => {
+                resolve(type);
+            })
+        });
 
-// dselect(document.querySelector('#hubungankplrmhtangga'), {
-//             search: true
-//         });
-//         dselect(document.querySelector('#channel'), {});
+        FilePond.setOptions({
+            server: {
+                process: {
+                    url: '/upload',
+                    headers: {
+                        'X-CSRF-TOKEN': '{{ csrf_token() }}'
+                    },
+                },
+                revert: {
+                    url: '/revert',
+                    headers: {
+                        'X-CSRF-TOKEN': '{{ csrf_token() }}'
+                    },
+                }
+            }
+        });
+
+        dselect(document.querySelector('#namaOpd'), {
+            search: true
+        });
+        dselect(document.querySelector('#channel'), {});
     </script>
 @endsection
 

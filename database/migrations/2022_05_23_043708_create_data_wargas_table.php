@@ -15,19 +15,23 @@ class CreateDataWargasTable extends Migration
     {
         Schema::create('data_wargas', function (Blueprint $table) {
             $table->id();
+            $table->string('no_prelist');
             $table->string('no_kk');
             $table->string('nik');
             $table->string('nama');
+            $table->string('hub_keluarga');
             $table->string('alamat');
+            $table->string('no_rw');
+            $table->string('no_rt');
+            $table->string('kecamatan');
+            $table->string('kelurahan');
+            $table->string('periode');
+            $table->string('tahun');
             $table->string('status_keluarga');
             $table->string('status_ekonomi');
+            $table->string('hasil_prelist');
             $table->string('catatan')->nullable();
-            $table->string('status_survei');
-
-            // $table->string('keterangan');
-            // $table->string('kecamatan');
-            // $table->string('kelurahan');
-            // $table->timestamps();
+            $table->timestamps();
         });
     }
 

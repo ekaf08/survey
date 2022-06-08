@@ -42,10 +42,15 @@
                 </div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                
+                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="no_kk" name="no_kk"
+                                    value="{{ ($warga->no_kk) }}" hidden required>
+                            </div>
                             <div class="form-group">
                                 <label for="no_kk">NOMOR KARTU KELUARGA</label>
-                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="no_kk" name="no_kk"
+                                <input type="text" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" maxlength="16" class="form-control" id="no_kk" name="no_kkee"
                                     value="{{ Str::mask($warga->no_kk, '*', 3, 9) }}" readonly required>
                             </div>
                         </div>
@@ -53,7 +58,9 @@
                     <?php break; ?>
 @endforeach
 
-
+                
+                    <h2 class="card-title mt-4">ANGGOTA KELUARGA</h2>
+                
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="nav-tiket" role="tabpanel"
                         aria-labelledby="nav-tiket-tab">
@@ -93,8 +100,7 @@
 {{-- Radio Button --}}
 <div class="card">
     <div class="card-body">
-        <div class="row">
-
+                    <div class="row">
                         <div class="col-md-10">
                             <fieldset class="form-group">
                                 <label for="status_keluarga">Status Keluarga : <span class="required">*</span> </label>
@@ -124,7 +130,9 @@
                                 </div>  
                             </fieldset>
                         </div>
+                    </div>
 
+                    <div class="row" id="div_status" style="display:none">
                         <div class="col-md-10">
                             <fieldset class="form-group">
                                 <label for="status_ekonomi">Status Ekonomi <span class="required">*</span> </label>
@@ -150,6 +158,7 @@
                             </fieldset>
                         </div>                 
                     </div>
+        
  {{--  END RADIO BUTTON--}}
 
  <!-- <input type="text"  class="form-control" id="hasil_prelist" name="hasil_prelist"
@@ -164,16 +173,16 @@
                                 </div>
                             </div>
                         </div>
+			</div>  
 
         </div>
-        <div class="col-12 d-flex justify-content-start m-5">
-        <button type="reset" class="btn btn-danger me-1 mb-1">Batal</button>
-        <button type="submit" class="btn btn-primary me-1 mb-1">Simpan</button>
-    </div>
+		 <div class="col-12 d-flex justify-content-start m-5">
+			<button type="reset" class="btn btn-danger me-1 mb-1">Batal</button>
+			<button type="submit" class="btn btn-primary me-1 mb-1">Simpan</button>
+		</div>
     </div>
     
-</div></div></div>
-   
+
 </section>
 {{-- @include('sweetalert::alert') --}}
 </form>

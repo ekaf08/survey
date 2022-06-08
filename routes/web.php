@@ -67,3 +67,7 @@ Route::get('/entridata/form_prelist', [DataWargaController::class, 'show_form_pr
 // PDF
 Route::get('/entridata/form_cetak', [DataWargaController::class, 'show_form_cetak'])->name('show_form_cetak')->middleware('auth');
 Route::get('/entridata/cetak_pdf', [DataWargaController::class, 'cetak_pdf'])->name('cetak_pdf')->middleware('auth');
+
+
+//coba LiveWire
+Route::get('/livewire/coba-tambah', [DataWargaController::class, 'FormCoba']);

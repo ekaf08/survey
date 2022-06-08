@@ -76,7 +76,11 @@
                             <a href="/main/list-data-rumahtangga/">Data Rumah Tangga</a>
                         </li>
                          <li class="submenu-item ">
-                            <a href="/main/data_warga">Data Individu</a>
+                            <a href="/entridata/form-data-individu">Data Individu</a>
+                        </li> 
+
+                        <li class="submenu-item ">
+                            <a href="/livewire/coba-tambah">Coba Liveware</a>
                         </li> 
 
                     </ul>

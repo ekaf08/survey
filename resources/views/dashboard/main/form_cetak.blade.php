@@ -251,15 +251,17 @@
                             <td>
                                 {{ $ctk->no_kk }}
                             </td>
-                            {{-- @foreach ($cetak as $nm) --}}
-                           
-                            <td>
-                                Nama Keluarga Lain<br>
-                                Nama Keluarga Lain<br>
-                                Nama Keluarga Laindfdf
-                            </td>
                             
-                            {{-- @endforeach --}}
+                           {{-- @foreach ($cetak as $ctk1) --}}
+                           <td>
+                            Nama Keluarga Lain<br>
+                            Nama Keluarga Lain<br>
+                            Nama Keluarga Lain
+                        </td>
+                           {{-- @endforeach --}}
+                           
+                            
+                           
                             <td>
                                 {{ $ctk->alamat }}
                             </td>
@@ -278,9 +280,7 @@
                         </tr>
                     </table>
                     <br>
-<?php 
-    break;
-?>
+
 
 @endforeach
                     <table width="100%" align="center" border="0" class="umum" cellpadding="2" cellspacing="0" style="border-collapse: collapse;">

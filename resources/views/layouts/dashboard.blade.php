@@ -14,9 +14,13 @@
     <link rel="shortcut icon" href="{{ URL::to('/assets/images/favicon.svg') }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ URL::to('/assets/css/app.css') }}">
     @yield('custom-stylesheet')
+    {{-- @livewireStyles --}}
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 
 <body>
+
     <div id="app">
         @include('layouts.partials.sidebar')
         <div id="topnav">
@@ -46,22 +50,38 @@
             </footer>
         </div>
     </div>
-    <script src="{{ URL::to('/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js') }}"></script>
-    <script src="{{ URL::to('/assets/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
 
-    <script src="{{ URL::to('/assets/vendors/apexcharts/apexcharts.js') }}"></script>
-    <script src="{{ URL::to('/assets/js/pages/dashboard.js') }}"></script>
+    <script src="/assets/vendors/apexcharts/apexcharts.js"></script>
+    <script src="/assets/js/pages/dashboard.js"></script>
 
-    <script src="{{ URL::to('/assets/js/mazer.js') }}"></script>
-    {{-- <script src="https://code.jquery.com/jquery-3.6.0.js') }}"></script> --}}
-    <script src="/assets/vendors/jquery/jquery.min.js') }}"></script>
+    <script src="/assets/js/mazer.js"></script>
+    {{-- <script src="https://code.jquery.com/jquery-3.6.0.js"></script> --}}
+    <script src="/assets/vendors/jquery/jquery.min.js"></script>
 
     <script src="https://unpkg.com/filepond-plugin-file-validate-size/dist/filepond-plugin-file-validate-size.js"></script>
     <script src="https://unpkg.com/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.js"></script>
 
     <script src="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js"></script>
     <script src="https://unpkg.com/filepond/dist/filepond.js"></script>
+
+    <script>
+        function resize() {
+            $('.right_col').css('min-height', $(window).height() - $('.right_col').offset().top - 40);
+        }
+        // $('window').on('load', resize());
+        $('window').on('resize', resize());
+    </script>
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script> -->
+
+
+
+
+
+
+
+
     <script type="text/javascript">
 
         function ShowHideDiv() {
@@ -267,6 +287,26 @@
         // $('window').on('load', resize());
         $('window').on('resize', resize());
     </script>
+
+
+@if (session('success'))
+        <script>
+            Swal.fire(
+                'Selamat!',
+                "{{ session('success') }}",
+                'success'
+            )
+        </script>
+    @endif
+    @if (session('error'))
+        <script>
+            Swal.fire(
+                'Oops!',
+                "{{ session('error') }}",
+                'error'
+            )
+        </script>
+    @endif
 
     @yield('custom-script')
 </body>

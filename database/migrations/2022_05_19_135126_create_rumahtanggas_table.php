@@ -16,6 +16,7 @@ class CreateRumahtanggasTable extends Migration
         Schema::create('rumahtanggas', function (Blueprint $table) {
             $table->id();
             //$table->bigInteger('nik');
+            $table->string('no_kk')->unique();
             $table->string('kecamatan');
             $table->string('kelurahan');
             $table->string('alamat');
@@ -26,15 +27,15 @@ class CreateRumahtanggasTable extends Migration
             $table->string('pengelola_makan');
             $table->string('ruta_daftar_dtms');
             $table->string('no_urut_ruta');
-            
-   //          $table->string('alamat_domisili');
-   //          $table->string('no_hp');
-			// $table->string('rt_domisili');
-			// $table->string('rw_domisili');
-   //          $table->string('kecamatan_domisili');
-   //          $table->string('kelurahan_domisili');
-   //          $table->string('jumlah_anggota_kel');
-   //          $table->string('jumlah_keluarga');
+
+            //          $table->string('alamat_domisili');
+            //          $table->string('no_hp');
+            // $table->string('rt_domisili');
+            // $table->string('rw_domisili');
+            //          $table->string('kecamatan_domisili');
+            //          $table->string('kelurahan_domisili');
+            //          $table->string('jumlah_anggota_kel');
+            //          $table->string('jumlah_keluarga');
             $table->date('tanggal_pencacah');
             $table->string('nama_pencacah');
             $table->date('tanggal_pemeriksa');
@@ -42,7 +43,7 @@ class CreateRumahtanggasTable extends Migration
             $table->string('hasil_pencacah');
             $table->string('tempat_tinggal');
             $table->string('status_lahan');
-            $table->string('biaya_pbb'); 
+            $table->string('biaya_pbb');
             $table->string('luas_lantai');
             $table->string('jenis_lantai');
             $table->string('dinding_terluas');
@@ -60,7 +61,7 @@ class CreateRumahtanggasTable extends Migration
             $table->string('jenis_kloset');
             $table->string('pembuangan_akhir_tinja');
             //$table->string('pendapatan_keluarga');
-               
+
             $table->string('biaya_listrik');
             $table->string('biaya_gas');
             //$table->string('menerima_perbaikan_rumah');
